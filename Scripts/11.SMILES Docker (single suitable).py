@@ -1,6 +1,4 @@
-import rdkit
 from rdkit import Chem
-from rdkit.Chem import AllChem
 import vina
 import meeko
 

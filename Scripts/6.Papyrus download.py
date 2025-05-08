@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # path to CSV data
-csv_path = "/Users/jelle/Documents/Personal/Coding Projects/RP2-TNO/Data/csv data/1.raw_genes.csv"
+csv_path = "./Data/csv data/1.raw_genes.csv"
 
 uniprot_col = "Uniprot" # read the CSV Uniprot column
 acc_keys = pd.read_csv(csv_path)[uniprot_col].dropna().unique().tolist() # for now limit to top 10 rows
