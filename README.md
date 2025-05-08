@@ -6,10 +6,10 @@ This project is focused on identifying novel therapeutic targets within Sarcopen
 All data is stored within the “data” folder. The scripts are designed to run seamlessly as long as the repository is cloned correctly, with no need for modifications to file paths or directories. The execution order of the scripts and notebooks follows a clear, numbered sequence, ensuring the workflow operates smoothly.
 
 > [!IMPORTANT]
->This repository relies on a very specific set of python packages and versions in order to function properly, the following step by step plan for recreation is advised:
+>This repository relies on a very specific virtual environment containing certain packages and versions. Some of these packages (Autodock Vina and ConPhar) require a linux WSL or machine to function properly. The following step by step plan for recreation of this virtual environment is advised:
 1. **Create a virtual environment** with Python 3.12.2
    ```
-   create conda -n spock python=3.12.2
+   conda create -n spock python=3.12.2
    ```
 2. **Install Vina** using:  
    ```
