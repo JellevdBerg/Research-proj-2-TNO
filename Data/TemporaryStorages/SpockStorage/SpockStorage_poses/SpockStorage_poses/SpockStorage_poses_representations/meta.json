@@ -1,0 +1,24 @@
+{
+    "py/object": "qsprpred.data.storage.tabular.simple.PandasChemStore",
+    "py/state": {
+        "rootDir": "/Users/jelle/Documents/Personal/Coding Projects/RP2-TNO/Data/TemporaryStorages/SpockStorage/SpockStorage_poses/SpockStorage_poses",
+        "path": "/Users/jelle/Documents/Personal/Coding Projects/RP2-TNO/Data/TemporaryStorages/SpockStorage/SpockStorage_poses/SpockStorage_poses/SpockStorage_poses_representations",
+        "_name": "SpockStorage_poses_representations",
+        "storeFormat": "pkl",
+        "_nJobs": 11,
+        "_chunkProcessor": {
+            "py/object": "qsprpred.utils.parallel.MultiprocessingJITGenerator",
+            "workerType": "cpu",
+            "useGpus": [],
+            "jobsPerGpu": null,
+            "nWorkers": 11
+        },
+        "_chunkSize": 1,
+        "_standardizer": null,
+        "_identifier": null,
+        "_idProp": "SpockStorage_poses_representations_ID",
+        "_libraries": {
+            "SpockStorage_poses_representations_library": "SpockStorage_poses_representations_library/SpockStorage_poses_representations_library_meta.json"
+        }
+    }
+}

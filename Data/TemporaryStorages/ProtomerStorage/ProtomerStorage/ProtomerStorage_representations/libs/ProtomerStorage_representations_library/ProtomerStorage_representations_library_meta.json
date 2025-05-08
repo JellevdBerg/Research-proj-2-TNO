@@ -1,0 +1,23 @@
+{
+    "py/object": "qsprpred.data.tables.pandas.PandasDataTable",
+    "py/state": {
+        "storeFormat": "pkl",
+        "_seed": 1710487608,
+        "_name": "ProtomerStorage_representations_library",
+        "indexCols": [
+            "ProtomerStorage_representations_ID"
+        ],
+        "_storeDir": "/Users/jelle/Documents/Personal/Coding Projects/RP2-TNO/Data/TemporaryStorages/ProtomerStorage/ProtomerStorage/ProtomerStorage_representations/libs",
+        "_idProp": "ProtomerStorage_representations_ID",
+        "_nJobs": 1,
+        "_chunkSize": 0,
+        "parallelGenerator": {
+            "py/object": "qsprpred.utils.parallel.MultiprocessingJITGenerator",
+            "workerType": "cpu",
+            "useGpus": [],
+            "jobsPerGpu": null,
+            "nWorkers": 1
+        },
+        "storeDir": "./ProtomerStorage_representations_library"
+    }
+}
