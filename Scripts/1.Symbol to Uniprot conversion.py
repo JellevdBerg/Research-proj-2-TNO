@@ -2,7 +2,7 @@ import pandas as pd
 import mygene
 
 # Load Excel file (replace 'input.xlsx' with your actual file)
-file_path = 'Data/1.RAW.xlsx'  # Update with the actual file path
+file_path = './Data/meta/Gene symbols.xlsx'  # Update with the actual file path
 df = pd.read_excel(file_path)
 
 gene_symbols = df['Symbol'].dropna().tolist()  # Ensure no NaN values
@@ -31,4 +31,4 @@ symbol_to_uniprot = convert_symbols_to_uniprot(gene_symbols)
 df['Uniprot'] = df['Symbol'].map(symbol_to_uniprot)
 
 # Save output to CSV
-df.to_csv('Data/csv data/1.raw_genes.csv', index=False)
+df.to_csv('./Data/docs/1.raw_genes.csv', index=False)

@@ -12,7 +12,7 @@ import os
 
 def main():
     # List of directories to remove
-    directories_to_remove = ['./Data/TemporaryStorages/SpockStorage', './Data/TemporaryStorages/ChemStorage', './Data/TemporaryStorages/ProtomerStorage']
+    directories_to_remove = ['./Data/temp/SpockStorage', './Data/temp/ChemStorage', './Data/temp/ProtomerStorage']
 
     # remove the directories if they exist
     for directory in directories_to_remove:
@@ -22,8 +22,8 @@ def main():
     # Create a library of compounds stored as a pandas data frame
     library = PandasChemStore(
         name="ChemStorage",
-        path="./Data/TemporaryStorages/",
-        df=pd.read_csv("./Data/csv data/6.compounds for vina smiles.csv"),
+        path="./Data/temp/",
+        df=pd.read_csv("./Data/docs/6.compounds for vina smiles.csv"),
         standardizer=PapyrusStandardizer(),
         identifier=InchiIdentifier(),
     )
@@ -32,7 +32,7 @@ def main():
     # make a storage for protomers of molecules in our library
     representation_store = PandasRepresentationStore(
         name="ProtomerStorage",
-        path="./Data/TemporaryStorages/",
+        path="./Data/temp/",
         chem_store=library, # our library from before
     )
     dm = Dimorphite(ph_range=(7,7.5), max_variants=5)
@@ -43,7 +43,7 @@ def main():
     # Create Spock storage for ligand poses
     store = SpockStorage(
         name="SpockStorage",
-        path="./Data/TemporaryStorages/",
+        path="./Data/temp/",
         ligand_store=representation_store,
     )
 
@@ -51,7 +51,7 @@ def main():
     N_CPUS = os.cpu_count()  # number of cpus to use for docking
     EXHAUSTIVENESS = 8  # Vina exhaustiveness parameter (ideally no lower than 8)
     SEED = 42  # random seed for random operations (the meaning of life)
-    PROTEIN_FOLDER = './Data/PDB structures prepared'
+    PROTEIN_FOLDER = './Data/target'
 
     # creating a docking engine
     docking = VinaDockingCPULocal(

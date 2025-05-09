@@ -4,7 +4,7 @@ from concurrent.futures import ThreadPoolExecutor
 import numpy as np
 
 # Load CSV file
-file_path = "Data/csv data/1.raw_genes.csv"  # Change this to your actual file path
+file_path = "./Data/docs/1.raw_genes.csv"  # Change this to your actual file path
 df = pd.read_csv(file_path)
 
 def get_pdb_ids(uniprot_id):
@@ -38,5 +38,5 @@ with ThreadPoolExecutor(max_workers=11) as executor:
     executor.map(update_pdb_id, df[["Uniprot"]].dropna().itertuples(index=True))
 
 # Save updated CSV
-df.to_csv("Data/csv data/1.raw_genes.csv", index=False)
+df.to_csv("./Data/docs/1.raw_genes.csv", index=False)
 print("PDB IDs updated!")

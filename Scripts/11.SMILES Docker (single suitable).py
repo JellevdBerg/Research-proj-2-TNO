@@ -23,8 +23,8 @@ def parse_poses(poses):
     pmol = meeko.PDBQTMolecule(poses)
     return meeko.RDKitMolCreate.from_pdbqt_mol(pmol)[0]
 
-protein_file_pdbqt = "./Data/PDB structures prepared/AF-Q13705-ACVR2B_-_prepared.pdbqt"
-protein_file_pdb = "./Data/PDB structures prepared/AF-Q13705-ACVR2B_-_prepared.pdb" # just for complex depiction
+protein_file_pdbqt = "./Data/target/AF-Q13705-ACVR2B_-_prepared.pdbqt"
+protein_file_pdb = "./Data/target/AF-Q13705-ACVR2B_-_prepared.pdb" # just for complex depiction
 ligs = {
   "345": "CC(C)n1nc(-c2cc3cc(O)ccc3[nH]2)c2c(N)ncnc21"
 }

@@ -1,8 +1,8 @@
 import pandas as pd
 import os
 
-input_directory = "Data/PDB ligands"
-output_path = "Data/PDB ligands/PDB_ligands_combined.csv"
+input_directory = "./Data/archive/"
+output_path = "./Data/archive/PDB_ligands_combined.csv"
 
 csv_files = [f for f in os.listdir(input_directory) if f.endswith('.csv')]
 

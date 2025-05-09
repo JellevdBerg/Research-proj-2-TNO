@@ -89,7 +89,7 @@ def _fetch_ligand_expo_info(ligand_expo_id):
     info["Aromatic bond count"] = int(info["Aromatic bond count"])
     return info
 
-df = pd.read_csv('Data/csv data/2.raw_genes_long.csv')
+df = pd.read_csv('./Data/docs/2.raw_genes_long.csv')
 
 # Grab the top 10 values from a specific column
 selected_pdb_ids = df['PDB-ID'].tolist()
@@ -145,7 +145,7 @@ for chunk_index, chunk in enumerate(chunks):
     ligands_df = pd.DataFrame(rows, columns=columns)
 
     # Save each chunk to a separate CSV file
-    chunk_filename = f"Data/PDB Ligands/ligands_from_pdb_chunk_{chunk_index + 1}.csv"
+    chunk_filename = f"./Data/archive/ligands_from_pdb_chunk_{chunk_index + 1}.csv"
     ligands_df.to_csv(chunk_filename, index=False)
     print(f"Ligand data for chunk {chunk_index + 1} saved to '{chunk_filename}'")
     
