@@ -26,7 +26,7 @@ def parse_poses(poses):
 protein_file_pdbqt = "./Data/target/AF-Q13705-ACVR2B_-_prepared.pdbqt"
 protein_file_pdb = "./Data/target/AF-Q13705-ACVR2B_-_prepared.pdb" # just for complex depiction
 ligs = {
-  "507": "O=C(c1cccc(c1)c2cnc3ccc(nn23)NC4CCOCC4)C"
+  "7IO": "C1CN(CCN1)c2ccc(cc2)c3cnc4c(occ4c5ccnc6ccccc56)c3"
 }
 
 for lig_name, lig in ligs.items():
