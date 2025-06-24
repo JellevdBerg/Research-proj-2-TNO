@@ -61,7 +61,7 @@ for cluster in sorted(os.listdir(results_dir)):
         save_data_per_descriptor=True,
         out_folder=cons_path,
         cmap_plots="viridis",
-        h_dist=3
+        h_dist=0.17
     )
 
     os.makedirs(f'{results_dir}/important features', exist_ok=True)
