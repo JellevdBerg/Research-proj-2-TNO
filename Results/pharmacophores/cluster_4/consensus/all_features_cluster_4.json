@@ -1,1 +1,1054 @@
-{"points":[{"enabled":true,"name":"Aromatic","radius":1.1000000238,"size":6,"svector":{"x":-0.3678338292,"y":-0.878760451,"z":0.3041025221},"vector":[{"x":-0.3678338292,"y":-0.878760451,"z":0.3041025221},{"x":0.3678338292,"y":0.878760451,"z":-0.3041025221}],"x":-8.8912166667,"y":1.5951833333,"z":-11.9618333333,"color":"purple","ligand":"A3F_6EIX"},{"enabled":true,"name":"Aromatic","radius":1.1000000238,"size":6,"svector":{"x":-0.3374003127,"y":0.9287040685,"z":-0.1538498691},"vector":[{"x":-0.3374003127,"y":0.9287040685,"z":-0.1538498691},{"x":0.3374003127,"y":-0.9287040685,"z":0.1538498691}],"x":-1.6563333333,"y":1.1071,"z":-12.0693,"color":"purple","ligand":"A3F_6EIX"},{"enabled":true,"name":"HydrogenDonor","radius":0.5,"size":1,"svector":{"x":0.3885580242,"y":-0.2719220882,"z":-0.158369946},"vector":[{"x":0.9329576784,"y":0.2878423556,"z":0.2161868373},{"x":-0.15584163,"y":-0.831686532,"z":-0.5329267293}],"x":-3.1727,"y":-1.8968,"z":-14.0742,"color":"yellow","ligand":"A3F_6EIX"},{"enabled":true,"name":"HydrogenDonor","radius":0.5,"size":1,"svector":{"x":-0.8467329006,"y":0.4449830066,"z":0.2916050735},"vector":[{"x":-0.8467329006,"y":0.4449830066,"z":0.2916050735}],"x":-9.1088,"y":2.5681,"z":-9.3453,"color":"yellow","ligand":"A3F_6EIX"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.0963679588,"y":-0.8383706969,"z":-0.5365144837},"vector":[{"x":-0.0963679588,"y":-0.8383706969,"z":-0.5365144837}],"x":-5.5362,"y":-1.5401,"z":-13.9334,"color":"orange","ligand":"A3F_6EIX"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.8467329006,"y":0.4449830066,"z":0.2916050735},"vector":[{"x":-0.8467329006,"y":0.4449830066,"z":0.2916050735}],"x":-9.1088,"y":2.5681,"z":-9.3453,"color":"orange","ligand":"A3F_6EIX"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.9741268139,"y":0.0117927641,"z":0.2256942207},"vector":[{"x":0.9741268139,"y":0.0117927641,"z":0.2256942207}],"x":-1.1182,"y":1.7401,"z":-9.4372,"color":"orange","ligand":"A3F_6EIX"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.8744802195,"y":0.3663313765,"z":0.3179397243},"vector":[{"x":0.8744802195,"y":0.3663313765,"z":0.3179397243}],"x":0.4007,"y":1.5174,"z":-13.9726,"color":"orange","ligand":"A3F_6EIX"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.1638240657,"y":0.963257382,"z":0.2128306639},"vector":[{"x":0.1638240657,"y":0.963257382,"z":0.2128306639}],"x":0.85,"y":2.1439,"z":-11.2671,"color":"orange","ligand":"A3F_6EIX"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":6,"svector":null,"vector":null,"x":-8.8912166667,"y":1.5951833333,"z":-11.9618333333,"color":"green","ligand":"A3F_6EIX"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":6,"svector":null,"vector":null,"x":-1.6563333333,"y":1.1071,"z":-12.0693,"color":"green","ligand":"A3F_6EIX"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":-2.1474,"y":2.0354,"z":-8.486,"color":"green","ligand":"A3F_6EIX"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":0.2398,"y":1.2308,"z":-15.3246,"color":"green","ligand":"A3F_6EIX"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":1.8752,"y":1.2917,"z":-11.1657,"color":"green","ligand":"A3F_6EIX"},{"enabled":true,"name":"HydrogenDonor","radius":0.5,"size":1,"svector":{"x":0.0791120341,"y":-0.6651708978,"z":0.7424883587},"vector":[{"x":0.0791120341,"y":-0.6651708978,"z":0.7424883587}],"x":-2.3889,"y":6.7933,"z":-5.0172,"color":"yellow","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenDonor","radius":0.5,"size":1,"svector":{"x":0.4228061339,"y":-0.2408777126,"z":-0.1149473824},"vector":[{"x":-0.0245701319,"y":-0.7865413103,"z":-0.6170486818},{"x":0.8701823997,"y":0.3047858851,"z":0.3871539171}],"x":-3.0317,"y":-1.291,"z":-13.8584,"color":"yellow","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenDonor","radius":0.5,"size":1,"svector":{"x":-0.9624539469,"y":0.2643629649,"z":-0.0616005114},"vector":[{"x":-0.9624539469,"y":0.2643629649,"z":-0.0616005114}],"x":-6.1633,"y":4.2132,"z":-7.6216,"color":"yellow","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenDonor","radius":0.5,"size":1,"svector":{"x":-0.2765078521,"y":0.9168936432,"z":-0.2878358121},"vector":[{"x":-0.2765078521,"y":0.9168936432,"z":-0.2878358121}],"x":-7.8761,"y":2.9404,"z":-9.2128,"color":"yellow","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.8874926744,"y":0.416967687,"z":0.1962006649},"vector":[{"x":-0.8874926744,"y":0.416967687,"z":0.1962006649}],"x":-6.6366,"y":0.5951,"z":-12.9655,"color":"orange","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.989447938,"y":-0.139630414,"z":0.0386797802},"vector":[{"x":0.989447938,"y":-0.139630414,"z":0.0386797802}],"x":-3.2463,"y":1.1673,"z":-11.9989,"color":"orange","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.1550816225,"y":-0.9854099952,"z":0.0701201233},"vector":[{"x":-0.1550816225,"y":-0.9854099952,"z":0.0701201233}],"x":-3.6005,"y":5.286,"z":-9.4774,"color":"orange","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.2967164922,"y":0.3960659646,"z":-0.868959766},"vector":[{"x":0.2967164922,"y":0.3960659646,"z":-0.868959766}],"x":-5.8161,"y":4.2948,"z":-11.2043,"color":"orange","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.9624539469,"y":0.2643629649,"z":-0.0616005114},"vector":[{"x":-0.9624539469,"y":0.2643629649,"z":-0.0616005114}],"x":-6.1633,"y":4.2132,"z":-7.6216,"color":"orange","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.2765078521,"y":0.9168936432,"z":-0.2878358121},"vector":[{"x":-0.2765078521,"y":0.9168936432,"z":-0.2878358121}],"x":-7.8761,"y":2.9404,"z":-9.2128,"color":"orange","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.6378565544,"y":-0.7640326811,"z":0.0969178944},"vector":[{"x":0.6378565544,"y":-0.7640326811,"z":0.0969178944}],"x":-1.2731,"y":4.8005,"z":-9.0096,"color":"orange","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.9861346071,"y":-0.1659447662,"z":-0.0009333976},"vector":[{"x":-0.9861346071,"y":-0.1659447662,"z":-0.0009333976}],"x":-4.2884,"y":5.7159,"z":-6.4229,"color":"orange","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.5642664208,"y":-0.1353248412,"z":0.8144265428},"vector":[{"x":0.5642664208,"y":-0.1353248412,"z":0.8144265428}],"x":-0.0839,"y":7.4544,"z":-3.8974,"color":"orange","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.1360803452,"y":-0.4872527267,"z":-0.862593137},"vector":[{"x":0.1360803452,"y":-0.4872527267,"z":-0.862593137}],"x":-1.856,"y":6.9292,"z":-10.2523,"color":"orange","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.2336174838,"y":-0.4841116655,"z":0.8432430057},"vector":[{"x":-0.2336174838,"y":-0.4841116655,"z":0.8432430057}],"x":-2.052,"y":4.5983,"z":-6.3784,"color":"orange","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.5059598988,"y":0.253839068,"z":0.8243605452},"vector":[{"x":-0.5059598988,"y":0.253839068,"z":0.8243605452}],"x":-1.3237,"y":9.1911,"z":-5.1883,"color":"orange","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.0986906831,"y":0.9942220049,"z":0.042222672},"vector":[{"x":0.0986906831,"y":0.9942220049,"z":0.042222672}],"x":-2.4352,"y":6.7214,"z":-7.7542,"color":"orange","ligand":"ANP_6UNQ"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.8588236036,"y":0.5094860965,"z":-0.0533473087},"vector":[{"x":0.8588236036,"y":0.5094860965,"z":-0.0533473087}],"x":-0.1187,"y":7.1986,"z":-6.4016,"color":"orange","ligand":"ANP_6UNQ"},{"enabled":true,"name":"Aromatic","radius":1.1000000238,"size":6,"svector":{"x":-0.0544516048,"y":-0.5861254332,"z":0.80838852},"vector":[{"x":-0.0544516048,"y":-0.5861254332,"z":0.80838852},{"x":0.0544516048,"y":0.5861254332,"z":-0.80838852}],"x":-6.3689666667,"y":0.3001333333,"z":-13.0497833333,"color":"purple","ligand":"E26_6I1S"},{"enabled":true,"name":"HydrogenDonor","radius":0.5,"size":1,"svector":{"x":-0.4005643729,"y":0.7028010727,"z":0.5878935579},"vector":[{"x":-0.4005643729,"y":0.7028010727,"z":0.5878935579}],"x":-9.1766,"y":0.656,"z":-12.9983,"color":"yellow","ligand":"E26_6I1S"},{"enabled":true,"name":"HydrogenDonor","radius":0.5,"size":1,"svector":{"x":0.2090355155,"y":-0.752810336,"z":0.6241640419},"vector":[{"x":0.2090355155,"y":-0.752810336,"z":0.6241640419}],"x":-5.2447,"y":-1.8078,"z":-14.4744,"color":"yellow","ligand":"E26_6I1S"},{"enabled":true,"name":"HydrogenDonor","radius":0.5,"size":1,"svector":{"x":-0.8681734222,"y":0.4204976028,"z":0.2635463431},"vector":[{"x":-0.8681734222,"y":0.4204976028,"z":0.2635463431}],"x":-2.44,"y":4.873,"z":-7.8247,"color":"yellow","ligand":"E26_6I1S"},{"enabled":true,"name":"HydrogenDonor","radius":0.5,"size":1,"svector":{"x":-0.1700857775,"y":0.983462784,"z":0.0622236351},"vector":[{"x":-0.1700857775,"y":0.983462784,"z":0.0622236351}],"x":-4.9437,"y":3.3718,"z":-7.38,"color":"yellow","ligand":"E26_6I1S"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.2090355155,"y":-0.752810336,"z":0.6241640419},"vector":[{"x":0.2090355155,"y":-0.752810336,"z":0.6241640419}],"x":-5.2447,"y":-1.8078,"z":-14.4744,"color":"orange","ligand":"E26_6I1S"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.3766629022,"y":-0.7925545233,"z":-0.4795647878},"vector":[{"x":0.3766629022,"y":-0.7925545233,"z":-0.4795647878}],"x":-3.0249,"y":-1.0647,"z":-13.7214,"color":"orange","ligand":"E26_6I1S"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.5314379909,"y":0.6066256295,"z":-0.5912520676},"vector":[{"x":0.5314379909,"y":0.6066256295,"z":-0.5912520676}],"x":-0.9781,"y":3.6525,"z":-9.6791,"color":"orange","ligand":"E26_6I1S"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.8681734222,"y":0.4204976028,"z":0.2635463431},"vector":[{"x":-0.8681734222,"y":0.4204976028,"z":0.2635463431}],"x":-2.44,"y":4.873,"z":-7.8247,"color":"orange","ligand":"E26_6I1S"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.1700857775,"y":0.983462784,"z":0.0622236351},"vector":[{"x":-0.1700857775,"y":0.983462784,"z":0.0622236351}],"x":-4.9437,"y":3.3718,"z":-7.38,"color":"orange","ligand":"E26_6I1S"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":6,"svector":null,"vector":null,"x":-6.3689666667,"y":0.3001333333,"z":-13.0497833333,"color":"green","ligand":"E26_6I1S"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":0.8857,"y":1.1291,"z":-11.385,"color":"green","ligand":"E26_6I1S"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":-0.649,"y":1.1071,"z":-13.9626,"color":"green","ligand":"E26_6I1S"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":3,"svector":null,"vector":null,"x":-4.8484333333,"y":2.9868333333,"z":-10.5685333333,"color":"green","ligand":"E26_6I1S"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":2,"svector":null,"vector":null,"x":-10.74275,"y":0.08725,"z":-13.77,"color":"green","ligand":"E26_6I1S"},{"enabled":true,"name":"Aromatic","radius":1.1000000238,"size":6,"svector":{"x":-0.0322709253,"y":-0.7213755672,"z":0.6917917883},"vector":[{"x":-0.0322709253,"y":-0.7213755672,"z":0.6917917883},{"x":0.0322709253,"y":0.7213755672,"z":-0.6917917883}],"x":-9.4427333333,"y":0.8206333333,"z":-13.2192166667,"color":"purple","ligand":"FH0_7C3G"},{"enabled":true,"name":"Aromatic","radius":1.1000000238,"size":5,"svector":{"x":0.1814978921,"y":-0.7469703309,"z":0.6396044402},"vector":[{"x":0.1814978921,"y":-0.7469703309,"z":0.6396044402},{"x":-0.1814978921,"y":0.7469703309,"z":-0.6396044402}],"x":-3.00682,"y":1.8425,"z":-10.90856,"color":"purple","ligand":"FH0_7C3G"},{"enabled":true,"name":"HydrogenDonor","radius":0.5,"size":1,"svector":{"x":-0.2108743679,"y":-0.4715797569,"z":-0.8562385963},"vector":[{"x":-0.2108743679,"y":-0.4715797569,"z":-0.8562385963}],"x":-7.2759,"y":-0.5392,"z":-14.3221,"color":"yellow","ligand":"FH0_7C3G"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.918968309,"y":-0.3573364595,"z":0.1667570144},"vector":[{"x":0.918968309,"y":-0.3573364595,"z":0.1667570144}],"x":-14.0233,"y":2.4885,"z":-10.5487,"color":"orange","ligand":"FH0_7C3G"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.4295911877,"y":-0.6966671512,"z":-0.5745487724},"vector":[{"x":-0.4295911877,"y":-0.6966671512,"z":-0.5745487724}],"x":-5.2838,"y":-1.805,"z":-14.3065,"color":"orange","ligand":"FH0_7C3G"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.5568832583,"y":0.762765554,"z":0.328739633},"vector":[{"x":-0.5568832583,"y":0.762765554,"z":0.328739633}],"x":-5.4388,"y":0.2311,"z":-13.0354,"color":"orange","ligand":"FH0_7C3G"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.8314982276,"y":0.4749257726,"z":0.2881947397},"vector":[{"x":0.8314982276,"y":0.4749257726,"z":0.2881947397}],"x":-2.0128,"y":2.3666,"z":-10.5584,"color":"orange","ligand":"FH0_7C3G"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.8811420297,"y":-0.1507640379,"z":0.4481728777},"vector":[{"x":0.8811420297,"y":-0.1507640379,"z":0.4481728777}],"x":1.3973,"y":0.6909,"z":-12.4756,"color":"orange","ligand":"FH0_7C3G"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.6023819727,"y":-0.4064263912,"z":0.6869887536},"vector":[{"x":-0.6023819727,"y":-0.4064263912,"z":0.6869887536}],"x":-5.8177,"y":2.4941,"z":-9.0721,"color":"orange","ligand":"FH0_7C3G"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":6,"svector":null,"vector":null,"x":-9.4427333333,"y":0.8206333333,"z":-13.2192166667,"color":"green","ligand":"FH0_7C3G"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":5,"svector":null,"vector":null,"x":-3.00682,"y":1.8425,"z":-10.90856,"color":"green","ligand":"FH0_7C3G"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":-15.2713,"y":2.7757,"z":-9.8465,"color":"green","ligand":"FH0_7C3G"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":3,"svector":null,"vector":null,"x":0.1286,"y":0.8718333333,"z":-13.9970333333,"color":"green","ligand":"FH0_7C3G"},{"enabled":true,"name":"Aromatic","radius":1.1000000238,"size":6,"svector":{"x":-0.319311192,"y":0.9420031684,"z":-0.1032975964},"vector":[{"x":-0.319311192,"y":0.9420031684,"z":-0.1032975964},{"x":0.319311192,"y":-0.9420031684,"z":0.1032975964}],"x":-1.5095166667,"y":1.0549333333,"z":-12.1869166667,"color":"purple","ligand":"MSZ_6SZM"},{"enabled":true,"name":"Aromatic","radius":1.1000000238,"size":6,"svector":{"x":0.3462588552,"y":0.8754311612,"z":-0.3372315037},"vector":[{"x":0.3462588552,"y":0.8754311612,"z":-0.3372315037},{"x":-0.3462588552,"y":-0.8754311612,"z":0.3372315037}],"x":-8.9962333333,"y":1.5507666667,"z":-12.3319166667,"color":"purple","ligand":"MSZ_6SZM"},{"enabled":true,"name":"HydrogenDonor","radius":0.5,"size":1,"svector":{"x":0.3199049016,"y":0.8975077741,"z":-0.3035467828},"vector":[{"x":0.3199049016,"y":0.8975077741,"z":-0.3035467828}],"x":-13.6491,"y":4.805,"z":-11.2773,"color":"yellow","ligand":"MSZ_6SZM"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.0508201261,"y":-0.8902029071,"z":-0.4527207738},"vector":[{"x":-0.0508201261,"y":-0.8902029071,"z":-0.4527207738}],"x":-5.4063,"y":-1.5992,"z":-13.933,"color":"orange","ligand":"MSZ_6SZM"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.3199049016,"y":0.8975077741,"z":-0.3035467828},"vector":[{"x":0.3199049016,"y":0.8975077741,"z":-0.3035467828}],"x":-13.6491,"y":4.805,"z":-11.2773,"color":"orange","ligand":"MSZ_6SZM"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.9432587701,"y":0.2531465046,"z":0.2148947181},"vector":[{"x":0.9432587701,"y":0.2531465046,"z":0.2148947181}],"x":-0.8322,"y":1.6039,"z":-9.533,"color":"orange","ligand":"MSZ_6SZM"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.8960874855,"y":0.2942595322,"z":0.3323229543},"vector":[{"x":0.8960874855,"y":0.2942595322,"z":0.3323229543}],"x":0.5283,"y":1.491,"z":-13.9867,"color":"orange","ligand":"MSZ_6SZM"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.1633884317,"y":0.9674190507,"z":0.1934026905},"vector":[{"x":0.1633884317,"y":0.9674190507,"z":0.1934026905}],"x":0.9773,"y":1.9964,"z":-11.3843,"color":"orange","ligand":"MSZ_6SZM"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":6,"svector":null,"vector":null,"x":-1.5095166667,"y":1.0549333333,"z":-12.1869166667,"color":"green","ligand":"MSZ_6SZM"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":6,"svector":null,"vector":null,"x":-8.9962333333,"y":1.5507666667,"z":-12.3319166667,"color":"green","ligand":"MSZ_6SZM"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":-1.8619,"y":1.5114,"z":-8.5576,"color":"green","ligand":"MSZ_6SZM"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":-5.1599,"y":2.1744,"z":-11.9079,"color":"green","ligand":"MSZ_6SZM"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":0.2325,"y":1.2999,"z":-15.3552,"color":"green","ligand":"MSZ_6SZM"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":1.9905,"y":1.0388,"z":-11.2508,"color":"green","ligand":"MSZ_6SZM"},{"enabled":true,"name":"Aromatic","radius":1.1000000238,"size":6,"svector":{"x":-0.3202531782,"y":0.944442224,"z":-0.0739377269},"vector":[{"x":-0.3202531782,"y":0.944442224,"z":-0.0739377269},{"x":0.3202531782,"y":-0.944442224,"z":0.0739377269}],"x":-1.41905,"y":1.0101,"z":-12.23825,"color":"purple","ligand":"Q5Z_6Z36"},{"enabled":true,"name":"Aromatic","radius":1.1000000238,"size":6,"svector":{"x":-0.3414829973,"y":-0.8695480395,"z":0.3567570175},"vector":[{"x":-0.3414829973,"y":-0.8695480395,"z":0.3567570175},{"x":0.3414829973,"y":0.8695480395,"z":-0.3567570175}],"x":-8.9491166667,"y":1.52675,"z":-12.2715666667,"color":"purple","ligand":"Q5Z_6Z36"},{"enabled":true,"name":"HydrogenDonor","radius":0.5,"size":1,"svector":{"x":-0.2864064404,"y":-0.9573763152,"z":-0.0374425153},"vector":[{"x":-0.2864064404,"y":-0.9573763152,"z":-0.0374425153}],"x":-13.9751,"y":3.8237,"z":-11.0648,"color":"yellow","ligand":"Q5Z_6Z36"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.0539399665,"y":-0.8772863194,"z":-0.4769268223},"vector":[{"x":-0.0539399665,"y":-0.8772863194,"z":-0.4769268223}],"x":-5.3843,"y":-1.5797,"z":-13.8864,"color":"orange","ligand":"Q5Z_6Z36"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.2864064404,"y":-0.9573763152,"z":-0.0374425153},"vector":[{"x":-0.2864064404,"y":-0.9573763152,"z":-0.0374425153}],"x":-13.9751,"y":3.8237,"z":-11.0648,"color":"orange","ligand":"Q5Z_6Z36"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.96210577,"y":0.153728432,"z":0.2252111375},"vector":[{"x":0.96210577,"y":0.153728432,"z":0.2252111375}],"x":-0.6848,"y":1.5007,"z":-9.5932,"color":"orange","ligand":"Q5Z_6Z36"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.9226197286,"y":0.2685520759,"z":0.2768620937},"vector":[{"x":0.9226197286,"y":0.2685520759,"z":0.2768620937}],"x":0.5485,"y":1.4374,"z":-14.1484,"color":"orange","ligand":"Q5Z_6Z36"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.1829318137,"y":0.9656114524,"z":0.1847443491},"vector":[{"x":0.1829318137,"y":0.9656114524,"z":0.1847443491}],"x":1.1149,"y":1.9084,"z":-11.4994,"color":"orange","ligand":"Q5Z_6Z36"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":6,"svector":null,"vector":null,"x":-1.41905,"y":1.0101,"z":-12.23825,"color":"green","ligand":"Q5Z_6Z36"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":6,"svector":null,"vector":null,"x":-8.9491166667,"y":1.52675,"z":-12.2715666667,"color":"green","ligand":"Q5Z_6Z36"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":-1.6917,"y":1.5194,"z":-8.6127,"color":"green","ligand":"Q5Z_6Z36"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":-5.1031,"y":2.187,"z":-11.8876,"color":"green","ligand":"Q5Z_6Z36"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":0.2204,"y":1.2743,"z":-15.4881,"color":"green","ligand":"Q5Z_6Z36"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":2.1035,"y":0.9246,"z":-11.3938,"color":"green","ligand":"Q5Z_6Z36"},{"enabled":true,"name":"Aromatic","radius":1.1000000238,"size":6,"svector":{"x":-0.2576126935,"y":0.9659889664,"z":-0.0223834079},"vector":[{"x":-0.2576126935,"y":0.9659889664,"z":-0.0223834079},{"x":0.2576126935,"y":-0.9659889664,"z":0.0223834079}],"x":-1.37515,"y":1.1574666667,"z":-12.1835166667,"color":"purple","ligand":"TZX_8C7Z"},{"enabled":true,"name":"Aromatic","radius":1.1000000238,"size":6,"svector":{"x":-0.3671962074,"y":-0.8544232178,"z":0.3675974838},"vector":[{"x":-0.3671962074,"y":-0.8544232178,"z":0.3675974838},{"x":0.3671962074,"y":0.8544232178,"z":-0.3675974838}],"x":-9.3511666667,"y":2.0529333333,"z":-12.2907666667,"color":"purple","ligand":"TZX_8C7Z"},{"enabled":true,"name":"HydrogenDonor","radius":0.5,"size":1,"svector":{"x":0.8773063473,"y":0.4408657954,"z":-0.1896600207},"vector":[{"x":0.8773063473,"y":0.4408657954,"z":-0.1896600207}],"x":-12.7461,"y":5.9797,"z":-10.6124,"color":"yellow","ligand":"TZX_8C7Z"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.0967027329,"y":-0.8671751367,"z":-0.488524169},"vector":[{"x":-0.0967027329,"y":-0.8671751367,"z":-0.488524169}],"x":-5.7203,"y":-1.2571,"z":-13.8372,"color":"orange","ligand":"TZX_8C7Z"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.8773063473,"y":0.4408657954,"z":-0.1896600207},"vector":[{"x":0.8773063473,"y":0.4408657954,"z":-0.1896600207}],"x":-12.7461,"y":5.9797,"z":-10.6124,"color":"orange","ligand":"TZX_8C7Z"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.8976897936,"y":0.4169589883,"z":0.14247188},"vector":[{"x":0.8976897936,"y":0.4169589883,"z":0.14247188}],"x":0.4136,"y":1.5891,"z":-14.2753,"color":"orange","ligand":"TZX_8C7Z"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.3328653547,"y":0.9334449689,"z":-0.1337204013},"vector":[{"x":0.3328653547,"y":0.9334449689,"z":-0.1337204013}],"x":1.3192,"y":1.8906,"z":-11.6135,"color":"orange","ligand":"TZX_8C7Z"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":0.9092662893,"y":-0.2825630441,"z":0.3056025871},"vector":[{"x":0.9092662893,"y":-0.2825630441,"z":0.3056025871}],"x":-0.5648,"y":1.4334,"z":-9.5167,"color":"orange","ligand":"TZX_8C7Z"},{"enabled":true,"name":"HydrogenAcceptor","radius":0.5,"size":1,"svector":{"x":-0.2099716597,"y":-0.4544956178,"z":0.8656475239},"vector":[{"x":-0.2099716597,"y":-0.4544956178,"z":0.8656475239}],"x":-7.4223,"y":2.0884,"z":-10.2878,"color":"orange","ligand":"TZX_8C7Z"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":6,"svector":null,"vector":null,"x":-1.37515,"y":1.1574666667,"z":-12.1835166667,"color":"green","ligand":"TZX_8C7Z"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":6,"svector":null,"vector":null,"x":-9.3511666667,"y":2.0529333333,"z":-12.2907666667,"color":"green","ligand":"TZX_8C7Z"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":-0.0135,"y":1.1934,"z":-15.5611,"color":"green","ligand":"TZX_8C7Z"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":2.1745,"y":0.8894,"z":-11.1312,"color":"green","ligand":"TZX_8C7Z"},{"enabled":true,"name":"Hydrophobic","radius":1.0,"size":1,"svector":null,"vector":null,"x":-1.518,"y":1.9655,"z":-8.6133,"color":"green","ligand":"TZX_8C7Z"}]}
+{
+    "points": [
+        {
+            "enabled": true,
+            "name": "Aromatic",
+            "radius": 1.1000000238,
+            "size": 6,
+            "svector": {
+                "x": 0.0895961492,
+                "y": 0.6235762705,
+                "z": -0.7766113345
+            },
+            "vector": [
+                {
+                    "x": 0.0895961492,
+                    "y": 0.6235762705,
+                    "z": -0.7766113345
+                },
+                {
+                    "x": -0.0895961492,
+                    "y": -0.6235762705,
+                    "z": 0.7766113345
+                }
+            ],
+            "x": -9.3384333333,
+            "y": 1.1574666667,
+            "z": -12.8853833333,
+            "color": "purple",
+            "ligand": "C9U_6JUX"
+        },
+        {
+            "enabled": true,
+            "name": "Aromatic",
+            "radius": 1.1000000238,
+            "size": 5,
+            "svector": {
+                "x": -0.1993165804,
+                "y": 0.7708835719,
+                "z": -0.6049887762
+            },
+            "vector": [
+                {
+                    "x": -0.1993165804,
+                    "y": 0.7708835719,
+                    "z": -0.6049887762
+                },
+                {
+                    "x": 0.1993165804,
+                    "y": -0.7708835719,
+                    "z": 0.6049887762
+                }
+            ],
+            "x": -2.92748,
+            "y": 1.82196,
+            "z": -10.97488,
+            "color": "purple",
+            "ligand": "C9U_6JUX"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenDonor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.3513859918,
+                "y": -0.6293818073,
+                "z": -0.6931135733
+            },
+            "vector": [
+                {
+                    "x": -0.3513859918,
+                    "y": -0.6293818073,
+                    "z": -0.6931135733
+                }
+            ],
+            "x": -7.3275,
+            "y": -0.484,
+            "z": -13.899,
+            "color": "yellow",
+            "ligand": "C9U_6JUX"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenDonor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": 0.3287851833,
+                "y": -0.4079757061,
+                "z": 0.8517371229
+            },
+            "vector": [
+                {
+                    "x": 0.3287851833,
+                    "y": -0.4079757061,
+                    "z": 0.8517371229
+                }
+            ],
+            "x": -13.5531,
+            "y": 3.7833,
+            "z": -10.1146,
+            "color": "yellow",
+            "ligand": "C9U_6JUX"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": 0.8323962438,
+                "y": 0.4815025046,
+                "z": 0.2743571238
+            },
+            "vector": [
+                {
+                    "x": 0.8323962438,
+                    "y": 0.4815025046,
+                    "z": 0.2743571238
+                }
+            ],
+            "x": -1.9366,
+            "y": 2.3821,
+            "z": -10.6326,
+            "color": "orange",
+            "ligand": "C9U_6JUX"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": 0.8343068425,
+                "y": -0.0846177945,
+                "z": 0.5447677683
+            },
+            "vector": [
+                {
+                    "x": 0.8343068425,
+                    "y": -0.0846177945,
+                    "z": 0.5447677683
+                }
+            ],
+            "x": 1.4729,
+            "y": 0.9085,
+            "z": -12.4606,
+            "color": "orange",
+            "ligand": "C9U_6JUX"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.4828068469,
+                "y": 0.7627290523,
+                "z": 0.4302812352
+            },
+            "vector": [
+                {
+                    "x": -0.4828068469,
+                    "y": 0.7627290523,
+                    "z": 0.4302812352
+                }
+            ],
+            "x": -5.3838,
+            "y": 0.2671,
+            "z": -12.8595,
+            "color": "orange",
+            "ligand": "C9U_6JUX"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": 0.3287851833,
+                "y": -0.4079757061,
+                "z": 0.8517371229
+            },
+            "vector": [
+                {
+                    "x": 0.3287851833,
+                    "y": -0.4079757061,
+                    "z": 0.8517371229
+                }
+            ],
+            "x": -13.5531,
+            "y": 3.7833,
+            "z": -10.1146,
+            "color": "orange",
+            "ligand": "C9U_6JUX"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.5118097554,
+                "y": -0.6731667351,
+                "z": -0.5337577362
+            },
+            "vector": [
+                {
+                    "x": -0.5118097554,
+                    "y": -0.6731667351,
+                    "z": -0.5337577362
+                }
+            ],
+            "x": -5.4513,
+            "y": -1.7047,
+            "z": -14.1763,
+            "color": "orange",
+            "ligand": "C9U_6JUX"
+        },
+        {
+            "enabled": true,
+            "name": "Hydrophobic",
+            "radius": 1.0,
+            "size": 6,
+            "svector": null,
+            "vector": null,
+            "x": -9.3384333333,
+            "y": 1.1574666667,
+            "z": -12.8853833333,
+            "color": "green",
+            "ligand": "C9U_6JUX"
+        },
+        {
+            "enabled": true,
+            "name": "Hydrophobic",
+            "radius": 1.0,
+            "size": 5,
+            "svector": null,
+            "vector": null,
+            "x": -2.92748,
+            "y": 1.82196,
+            "z": -10.97488,
+            "color": "green",
+            "ligand": "C9U_6JUX"
+        },
+        {
+            "enabled": true,
+            "name": "Hydrophobic",
+            "radius": 1.0,
+            "size": 3,
+            "svector": null,
+            "vector": null,
+            "x": 0.2384666667,
+            "y": 0.9734,
+            "z": -14.0942666667,
+            "color": "green",
+            "ligand": "C9U_6JUX"
+        },
+        {
+            "enabled": true,
+            "name": "Hydrophobic",
+            "radius": 1.0,
+            "size": 2,
+            "svector": null,
+            "vector": null,
+            "x": -3.4475,
+            "y": 4.06455,
+            "z": -8.95965,
+            "color": "green",
+            "ligand": "C9U_6JUX"
+        },
+        {
+            "enabled": true,
+            "name": "Aromatic",
+            "radius": 1.1000000238,
+            "size": 6,
+            "svector": {
+                "x": -0.2003752013,
+                "y": -0.5185692643,
+                "z": 0.8312254188
+            },
+            "vector": [
+                {
+                    "x": -0.2003752013,
+                    "y": -0.5185692643,
+                    "z": 0.8312254188
+                },
+                {
+                    "x": 0.2003752013,
+                    "y": 0.5185692643,
+                    "z": -0.8312254188
+                }
+            ],
+            "x": -9.88235,
+            "y": 1.5725166667,
+            "z": -12.7199833333,
+            "color": "purple",
+            "ligand": "9TO_6ACR"
+        },
+        {
+            "enabled": true,
+            "name": "Aromatic",
+            "radius": 1.1000000238,
+            "size": 5,
+            "svector": {
+                "x": 0.18735619,
+                "y": -0.8569254566,
+                "z": 0.4801837355
+            },
+            "vector": [
+                {
+                    "x": 0.18735619,
+                    "y": -0.8569254566,
+                    "z": 0.4801837355
+                },
+                {
+                    "x": -0.18735619,
+                    "y": 0.8569254566,
+                    "z": -0.4801837355
+                }
+            ],
+            "x": -2.91508,
+            "y": 1.5634,
+            "z": -10.48708,
+            "color": "purple",
+            "ligand": "9TO_6ACR"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenDonor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.3966447034,
+                "y": -0.7864160796,
+                "z": -0.4735216247
+            },
+            "vector": [
+                {
+                    "x": -0.3966447034,
+                    "y": -0.7864160796,
+                    "z": -0.4735216247
+                }
+            ],
+            "x": -7.865,
+            "y": -0.4202,
+            "z": -13.4663,
+            "color": "yellow",
+            "ligand": "9TO_6ACR"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenDonor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.1323685859,
+                "y": 0.4839677269,
+                "z": 0.8650166454
+            },
+            "vector": [
+                {
+                    "x": -0.1323685859,
+                    "y": 0.4839677269,
+                    "z": 0.8650166454
+                }
+            ],
+            "x": -3.0589,
+            "y": 2.1211,
+            "z": -9.4776,
+            "color": "yellow",
+            "ligand": "9TO_6ACR"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.5400362016,
+                "y": -0.568982142,
+                "z": -0.6201775739
+            },
+            "vector": [
+                {
+                    "x": -0.5400362016,
+                    "y": -0.568982142,
+                    "z": -0.6201775739
+                }
+            ],
+            "x": -5.8514,
+            "y": -1.4627,
+            "z": -14.0517,
+            "color": "orange",
+            "ligand": "9TO_6ACR"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.4525851212,
+                "y": 0.6824685618,
+                "z": 0.5739367301
+            },
+            "vector": [
+                {
+                    "x": -0.4525851212,
+                    "y": 0.6824685618,
+                    "z": 0.5739367301
+                }
+            ],
+            "x": -5.7219,
+            "y": 0.3264,
+            "z": -12.3998,
+            "color": "orange",
+            "ligand": "9TO_6ACR"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": 0.8702275608,
+                "y": 0.3663601169,
+                "z": 0.3293694843
+            },
+            "vector": [
+                {
+                    "x": 0.8702275608,
+                    "y": 0.3663601169,
+                    "z": 0.3293694843
+                }
+            ],
+            "x": -1.8522,
+            "y": 1.9848,
+            "z": -10.1136,
+            "color": "orange",
+            "ligand": "9TO_6ACR"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": 0.8775581918,
+                "y": -0.0647827479,
+                "z": 0.4750734845
+            },
+            "vector": [
+                {
+                    "x": 0.8775581918,
+                    "y": -0.0647827479,
+                    "z": 0.4750734845
+                }
+            ],
+            "x": 1.5865,
+            "y": 0.7791,
+            "z": -12.3356,
+            "color": "orange",
+            "ligand": "9TO_6ACR"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.0217433677,
+                "y": 0.9178297397,
+                "z": -0.3963783481
+            },
+            "vector": [
+                {
+                    "x": -0.0217433677,
+                    "y": 0.9178297397,
+                    "z": -0.3963783481
+                }
+            ],
+            "x": -11.8686,
+            "y": 3.4818,
+            "z": -12.0187,
+            "color": "orange",
+            "ligand": "9TO_6ACR"
+        },
+        {
+            "enabled": true,
+            "name": "Hydrophobic",
+            "radius": 1.0,
+            "size": 6,
+            "svector": null,
+            "vector": null,
+            "x": -9.88235,
+            "y": 1.5725166667,
+            "z": -12.7199833333,
+            "color": "green",
+            "ligand": "9TO_6ACR"
+        },
+        {
+            "enabled": true,
+            "name": "Hydrophobic",
+            "radius": 1.0,
+            "size": 5,
+            "svector": null,
+            "vector": null,
+            "x": -2.91508,
+            "y": 1.5634,
+            "z": -10.48708,
+            "color": "green",
+            "ligand": "9TO_6ACR"
+        },
+        {
+            "enabled": true,
+            "name": "Hydrophobic",
+            "radius": 1.0,
+            "size": 1,
+            "svector": null,
+            "vector": null,
+            "x": -12.8157,
+            "y": 3.0252,
+            "z": -11.057,
+            "color": "green",
+            "ligand": "9TO_6ACR"
+        },
+        {
+            "enabled": true,
+            "name": "Hydrophobic",
+            "radius": 1.0,
+            "size": 3,
+            "svector": null,
+            "vector": null,
+            "x": 0.3179,
+            "y": 0.7875333333,
+            "z": -13.87,
+            "color": "green",
+            "ligand": "9TO_6ACR"
+        },
+        {
+            "enabled": true,
+            "name": "Aromatic",
+            "radius": 1.1000000238,
+            "size": 6,
+            "svector": {
+                "x": -0.1152014123,
+                "y": -0.6122457813,
+                "z": 0.7822299776
+            },
+            "vector": [
+                {
+                    "x": -0.1152014123,
+                    "y": -0.6122457813,
+                    "z": 0.7822299776
+                },
+                {
+                    "x": 0.1152014123,
+                    "y": 0.6122457813,
+                    "z": -0.7822299776
+                }
+            ],
+            "x": -9.3312166667,
+            "y": 1.42935,
+            "z": -12.5651333333,
+            "color": "purple",
+            "ligand": "C87_7NNS"
+        },
+        {
+            "enabled": true,
+            "name": "Aromatic",
+            "radius": 1.1000000238,
+            "size": 6,
+            "svector": {
+                "x": 0.0433660408,
+                "y": -0.7439648605,
+                "z": 0.6668100725
+            },
+            "vector": [
+                {
+                    "x": 0.0433660408,
+                    "y": -0.7439648605,
+                    "z": 0.6668100725
+                },
+                {
+                    "x": -0.0433660408,
+                    "y": 0.7439648605,
+                    "z": -0.6668100725
+                }
+            ],
+            "x": -2.6438833333,
+            "y": 1.6638,
+            "z": -10.7534833333,
+            "color": "purple",
+            "ligand": "C87_7NNS"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenDonor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.4059804643,
+                "y": -0.609603782,
+                "z": -0.6808546772
+            },
+            "vector": [
+                {
+                    "x": -0.4059804643,
+                    "y": -0.609603782,
+                    "z": -0.6808546772
+                }
+            ],
+            "x": -7.521,
+            "y": -0.4595,
+            "z": -13.781,
+            "color": "yellow",
+            "ligand": "C87_7NNS"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenDonor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.9518003289,
+                "y": -0.2477998678,
+                "z": 0.1807522048
+            },
+            "vector": [
+                {
+                    "x": -0.9518003289,
+                    "y": -0.2477998678,
+                    "z": 0.1807522048
+                }
+            ],
+            "x": -1.8229,
+            "y": 3.8933,
+            "z": -7.6859,
+            "color": "yellow",
+            "ligand": "C87_7NNS"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.4707100793,
+                "y": 0.7542942352,
+                "z": 0.4576813607
+            },
+            "vector": [
+                {
+                    "x": -0.4707100793,
+                    "y": 0.7542942352,
+                    "z": 0.4576813607
+                }
+            ],
+            "x": -5.3919,
+            "y": 0.1874,
+            "z": -12.7007,
+            "color": "orange",
+            "ligand": "C87_7NNS"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.534008075,
+                "y": -0.5920858763,
+                "z": -0.603547588
+            },
+            "vector": [
+                {
+                    "x": -0.534008075,
+                    "y": -0.5920858763,
+                    "z": -0.603547588
+                }
+            ],
+            "x": -5.4782,
+            "y": -1.6299,
+            "z": -14.1286,
+            "color": "orange",
+            "ligand": "C87_7NNS"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.6090047396,
+                "y": 0.6235990498,
+                "z": 0.4901402372
+            },
+            "vector": [
+                {
+                    "x": -0.6090047396,
+                    "y": 0.6235990498,
+                    "z": 0.4901402372
+                }
+            ],
+            "x": -2.7684,
+            "y": 6.3759,
+            "z": -5.4557,
+            "color": "orange",
+            "ligand": "C87_7NNS"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": 0.9540226882,
+                "y": 0.2350809318,
+                "z": -0.1859507083
+            },
+            "vector": [
+                {
+                    "x": 0.9540226882,
+                    "y": 0.2350809318,
+                    "z": -0.1859507083
+                }
+            ],
+            "x": -0.0351,
+            "y": 3.6789,
+            "z": -9.1215,
+            "color": "orange",
+            "ligand": "C87_7NNS"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.7450882071,
+                "y": 0.3782867217,
+                "z": 0.5493111321
+            },
+            "vector": [
+                {
+                    "x": -0.7450882071,
+                    "y": 0.3782867217,
+                    "z": 0.5493111321
+                }
+            ],
+            "x": -13.1288,
+            "y": 5.2379,
+            "z": -10.4759,
+            "color": "orange",
+            "ligand": "C87_7NNS"
+        },
+        {
+            "enabled": true,
+            "name": "Hydrophobic",
+            "radius": 1.0,
+            "size": 6,
+            "svector": null,
+            "vector": null,
+            "x": -9.3312166667,
+            "y": 1.42935,
+            "z": -12.5651333333,
+            "color": "green",
+            "ligand": "C87_7NNS"
+        },
+        {
+            "enabled": true,
+            "name": "Hydrophobic",
+            "radius": 1.0,
+            "size": 6,
+            "svector": null,
+            "vector": null,
+            "x": -2.6438833333,
+            "y": 1.6638,
+            "z": -10.7534833333,
+            "color": "green",
+            "ligand": "C87_7NNS"
+        },
+        {
+            "enabled": true,
+            "name": "Aromatic",
+            "radius": 1.1000000238,
+            "size": 6,
+            "svector": {
+                "x": -0.0322709253,
+                "y": -0.7213755672,
+                "z": 0.6917917883
+            },
+            "vector": [
+                {
+                    "x": -0.0322709253,
+                    "y": -0.7213755672,
+                    "z": 0.6917917883
+                },
+                {
+                    "x": 0.0322709253,
+                    "y": 0.7213755672,
+                    "z": -0.6917917883
+                }
+            ],
+            "x": -9.4427333333,
+            "y": 0.8206333333,
+            "z": -13.2192166667,
+            "color": "purple",
+            "ligand": "FH0_7C3G"
+        },
+        {
+            "enabled": true,
+            "name": "Aromatic",
+            "radius": 1.1000000238,
+            "size": 5,
+            "svector": {
+                "x": 0.1814978921,
+                "y": -0.7469703309,
+                "z": 0.6396044402
+            },
+            "vector": [
+                {
+                    "x": 0.1814978921,
+                    "y": -0.7469703309,
+                    "z": 0.6396044402
+                },
+                {
+                    "x": -0.1814978921,
+                    "y": 0.7469703309,
+                    "z": -0.6396044402
+                }
+            ],
+            "x": -3.00682,
+            "y": 1.8425,
+            "z": -10.90856,
+            "color": "purple",
+            "ligand": "FH0_7C3G"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenDonor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.2108743679,
+                "y": -0.4715797569,
+                "z": -0.8562385963
+            },
+            "vector": [
+                {
+                    "x": -0.2108743679,
+                    "y": -0.4715797569,
+                    "z": -0.8562385963
+                }
+            ],
+            "x": -7.2759,
+            "y": -0.5392,
+            "z": -14.3221,
+            "color": "yellow",
+            "ligand": "FH0_7C3G"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": 0.918968309,
+                "y": -0.3573364595,
+                "z": 0.1667570144
+            },
+            "vector": [
+                {
+                    "x": 0.918968309,
+                    "y": -0.3573364595,
+                    "z": 0.1667570144
+                }
+            ],
+            "x": -14.0233,
+            "y": 2.4885,
+            "z": -10.5487,
+            "color": "orange",
+            "ligand": "FH0_7C3G"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.4295911877,
+                "y": -0.6966671512,
+                "z": -0.5745487724
+            },
+            "vector": [
+                {
+                    "x": -0.4295911877,
+                    "y": -0.6966671512,
+                    "z": -0.5745487724
+                }
+            ],
+            "x": -5.2838,
+            "y": -1.805,
+            "z": -14.3065,
+            "color": "orange",
+            "ligand": "FH0_7C3G"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.5568832583,
+                "y": 0.762765554,
+                "z": 0.328739633
+            },
+            "vector": [
+                {
+                    "x": -0.5568832583,
+                    "y": 0.762765554,
+                    "z": 0.328739633
+                }
+            ],
+            "x": -5.4388,
+            "y": 0.2311,
+            "z": -13.0354,
+            "color": "orange",
+            "ligand": "FH0_7C3G"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": 0.8314982276,
+                "y": 0.4749257726,
+                "z": 0.2881947397
+            },
+            "vector": [
+                {
+                    "x": 0.8314982276,
+                    "y": 0.4749257726,
+                    "z": 0.2881947397
+                }
+            ],
+            "x": -2.0128,
+            "y": 2.3666,
+            "z": -10.5584,
+            "color": "orange",
+            "ligand": "FH0_7C3G"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": 0.8811420297,
+                "y": -0.1507640379,
+                "z": 0.4481728777
+            },
+            "vector": [
+                {
+                    "x": 0.8811420297,
+                    "y": -0.1507640379,
+                    "z": 0.4481728777
+                }
+            ],
+            "x": 1.3973,
+            "y": 0.6909,
+            "z": -12.4756,
+            "color": "orange",
+            "ligand": "FH0_7C3G"
+        },
+        {
+            "enabled": true,
+            "name": "HydrogenAcceptor",
+            "radius": 0.5,
+            "size": 1,
+            "svector": {
+                "x": -0.6023819727,
+                "y": -0.4064263912,
+                "z": 0.6869887536
+            },
+            "vector": [
+                {
+                    "x": -0.6023819727,
+                    "y": -0.4064263912,
+                    "z": 0.6869887536
+                }
+            ],
+            "x": -5.8177,
+            "y": 2.4941,
+            "z": -9.0721,
+            "color": "orange",
+            "ligand": "FH0_7C3G"
+        },
+        {
+            "enabled": true,
+            "name": "Hydrophobic",
+            "radius": 1.0,
+            "size": 6,
+            "svector": null,
+            "vector": null,
+            "x": -9.4427333333,
+            "y": 0.8206333333,
+            "z": -13.2192166667,
+            "color": "green",
+            "ligand": "FH0_7C3G"
+        },
+        {
+            "enabled": true,
+            "name": "Hydrophobic",
+            "radius": 1.0,
+            "size": 5,
+            "svector": null,
+            "vector": null,
+            "x": -3.00682,
+            "y": 1.8425,
+            "z": -10.90856,
+            "color": "green",
+            "ligand": "FH0_7C3G"
+        },
+        {
+            "enabled": true,
+            "name": "Hydrophobic",
+            "radius": 1.0,
+            "size": 1,
+            "svector": null,
+            "vector": null,
+            "x": -15.2713,
+            "y": 2.7757,
+            "z": -9.8465,
+            "color": "green",
+            "ligand": "FH0_7C3G"
+        },
+        {
+            "enabled": true,
+            "name": "Hydrophobic",
+            "radius": 1.0,
+            "size": 3,
+            "svector": null,
+            "vector": null,
+            "x": 0.1286,
+            "y": 0.8718333333,
+            "z": -13.9970333333,
+            "color": "green",
+            "ligand": "FH0_7C3G"
+        }
+    ]
+}

@@ -61,6 +61,7 @@ for cluster in sorted(os.listdir(results_dir)):
         save_data_per_descriptor=True,
         out_folder=cons_path,
         cmap_plots="viridis",
+        method='complete',
         h_dist=0.17
     )
 

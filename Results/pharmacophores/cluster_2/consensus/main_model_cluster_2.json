@@ -1,1 +1,64 @@
-{"points":[{"name":"Aromatic","cluster":1.0,"x":-1.41745,"y":1.2305333333,"z":-11.9738,"radius":0.5,"color":"purple","weight":1.0,"balance":0.3333333333,"frequency":0.3333333333},{"name":"HydrogenAcceptor","cluster":1.0,"x":-10.2995,"y":2.5697,"z":-11.9225,"radius":0.5,"color":"orange","weight":3.0,"balance":0.1730769231,"frequency":1.0},{"name":"HydrogenAcceptor","cluster":5.0,"x":0.98185,"y":1.3866833333,"z":-12.7520833333,"radius":0.7642642109,"color":"orange","weight":6.0,"balance":0.3461538462,"frequency":2.0},{"name":"HydrogenDonor","cluster":1.0,"x":-11.1952666667,"y":1.6415666667,"z":-13.7118666667,"radius":0.5,"color":"yellow","weight":3.0,"balance":0.6923076923,"frequency":1.0},{"name":"HydrogenDonor","cluster":2.0,"x":-4.5565,"y":5.23595,"z":-8.01805,"radius":0.5,"color":"yellow","weight":2.0,"balance":0.3076923077,"frequency":0.6666666667}]}
+{
+    "points": [
+        {
+            "name": "Aromatic",
+            "cluster": 15.0,
+            "x": -6.3910522222,
+            "y": 0.3872611111,
+            "z": -13.0197833333,
+            "radius": 0.619279211,
+            "color": "purple",
+            "weight": 3.0,
+            "variance": 0.0080182669,
+            "frequency": 0.25
+        },
+        {
+            "name": "HydrogenAcceptor",
+            "cluster": 15.0,
+            "x": -4.9522,
+            "y": 1.6757,
+            "z": -12.14275,
+            "radius": 0.5590609219,
+            "color": "orange",
+            "weight": 2.0,
+            "variance": 0.0034881925,
+            "frequency": 0.1666666667
+        },
+        {
+            "name": "HydrogenAcceptor",
+            "cluster": 24.0,
+            "x": -4.88375,
+            "y": -1.36375,
+            "z": -13.8127,
+            "radius": 0.5566638774,
+            "color": "orange",
+            "weight": 2.0,
+            "variance": 0.003210795,
+            "frequency": 0.1666666667
+        },
+        {
+            "name": "HydrogenDonor",
+            "cluster": 1.0,
+            "x": -15.2449,
+            "y": 2.1408,
+            "z": -10.8378,
+            "radius": 0.5,
+            "color": "yellow",
+            "weight": 1.0,
+            "variance": 0.0,
+            "frequency": 0.0833333333
+        },
+        {
+            "name": "HydrogenDonor",
+            "cluster": 2.0,
+            "x": -15.4489,
+            "y": 2.2415,
+            "z": -10.4984,
+            "radius": 0.5,
+            "color": "yellow",
+            "weight": 1.0,
+            "variance": 0.0,
+            "frequency": 0.0833333333
+        }
+    ]
+}
