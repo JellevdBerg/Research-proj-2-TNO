@@ -1,0 +1,64 @@
+{
+    "points": [
+        {
+            "name": "Aromatic",
+            "cluster": 2.0,
+            "x": -3.3486358333,
+            "y": 1.5139483333,
+            "z": -11.0424483333,
+            "radius": 2.3763959193,
+            "color": "purple",
+            "weight": 4.0,
+            "variance": 1.2247882604,
+            "frequency": 0.8
+        },
+        {
+            "name": "HydrogenAcceptor",
+            "cluster": 7.0,
+            "x": -5.59144,
+            "y": -1.7858,
+            "z": -14.11042,
+            "radius": 0.9188327232,
+            "color": "orange",
+            "weight": 5.0,
+            "variance": 0.082385752,
+            "frequency": 1.0
+        },
+        {
+            "name": "HydrogenAcceptor",
+            "cluster": 8.0,
+            "x": -6.3649,
+            "y": 0.5851,
+            "z": -12.56068,
+            "radius": 1.9975146645,
+            "color": "orange",
+            "weight": 5.0,
+            "variance": 1.3851509296,
+            "frequency": 1.0
+        },
+        {
+            "name": "HydrogenDonor",
+            "cluster": 1.0,
+            "x": -3.0589,
+            "y": 2.1211,
+            "z": -9.4776,
+            "radius": 0.5,
+            "color": "yellow",
+            "weight": 1.0,
+            "variance": 0.0,
+            "frequency": 0.2
+        },
+        {
+            "name": "HydrogenDonor",
+            "cluster": 3.0,
+            "x": -7.5785,
+            "y": -0.597025,
+            "z": -13.782825,
+            "radius": 0.9732949622,
+            "color": "yellow",
+            "weight": 4.0,
+            "variance": 0.1372601287,
+            "frequency": 0.8
+        }
+    ]
+}

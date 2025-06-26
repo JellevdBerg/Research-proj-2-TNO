@@ -1,0 +1,246 @@
+{
+    "points": [
+        {
+            "name": "Aromatic",
+            "cluster": 1.0,
+            "x": -5.5806933333,
+            "y": -0.068198,
+            "z": -13.040168,
+            "radius": 1.8149464726,
+            "color": "purple",
+            "weight": 5.0,
+            "variance": 1.1016683551
+        },
+        {
+            "name": "Aromatic",
+            "cluster": 2.0,
+            "x": -10.1035666667,
+            "y": 1.6010833333,
+            "z": -12.4388666667,
+            "radius": 0.5,
+            "color": "purple",
+            "weight": 1.0,
+            "variance": 0.0
+        },
+        {
+            "name": "HydrogenAcceptor",
+            "cluster": 1.0,
+            "x": -15.37785,
+            "y": 3.2572,
+            "z": -11.0858,
+            "radius": 0.9167272519,
+            "color": "orange",
+            "weight": 2.0,
+            "variance": 0.1736616025
+        },
+        {
+            "name": "HydrogenAcceptor",
+            "cluster": 2.0,
+            "x": -13.4899,
+            "y": 3.3347,
+            "z": -13.3095,
+            "radius": 0.5,
+            "color": "orange",
+            "weight": 1.0,
+            "variance": 0.0
+        },
+        {
+            "name": "HydrogenAcceptor",
+            "cluster": 3.0,
+            "x": -9.8097,
+            "y": 0.81,
+            "z": -13.473,
+            "radius": 0.5,
+            "color": "orange",
+            "weight": 1.0,
+            "variance": 0.0
+        },
+        {
+            "name": "HydrogenAcceptor",
+            "cluster": 4.0,
+            "x": -4.568525,
+            "y": -1.5201,
+            "z": -13.960175,
+            "radius": 2.1270159192,
+            "color": "orange",
+            "weight": 4.0,
+            "variance": 0.9745812587
+        },
+        {
+            "name": "HydrogenAcceptor",
+            "cluster": 5.0,
+            "x": -0.1211666667,
+            "y": 3.2527333333,
+            "z": -9.2706666667,
+            "radius": 1.5300319963,
+            "color": "orange",
+            "weight": 3.0,
+            "variance": 0.5465956467
+        },
+        {
+            "name": "HydrogenAcceptor",
+            "cluster": 6.0,
+            "x": -2.44,
+            "y": 4.873,
+            "z": -7.8247,
+            "radius": 0.5,
+            "color": "orange",
+            "weight": 1.0,
+            "variance": 0.0
+        },
+        {
+            "name": "HydrogenAcceptor",
+            "cluster": 7.0,
+            "x": -4.9437,
+            "y": 3.3718,
+            "z": -7.38,
+            "radius": 0.5,
+            "color": "orange",
+            "weight": 1.0,
+            "variance": 0.0
+        },
+        {
+            "name": "HydrogenDonor",
+            "cluster": 1.0,
+            "x": -2.44,
+            "y": 4.873,
+            "z": -7.8247,
+            "radius": 0.5,
+            "color": "yellow",
+            "weight": 1.0,
+            "variance": 0.0
+        },
+        {
+            "name": "HydrogenDonor",
+            "cluster": 2.0,
+            "x": -4.9437,
+            "y": 3.3718,
+            "z": -7.38,
+            "radius": 0.5,
+            "color": "yellow",
+            "weight": 1.0,
+            "variance": 0.0
+        },
+        {
+            "name": "HydrogenDonor",
+            "cluster": 3.0,
+            "x": -9.1766,
+            "y": 0.656,
+            "z": -12.9983,
+            "radius": 0.5,
+            "color": "yellow",
+            "weight": 1.0,
+            "variance": 0.0
+        },
+        {
+            "name": "HydrogenDonor",
+            "cluster": 4.0,
+            "x": -5.2447,
+            "y": -1.8078,
+            "z": -14.4744,
+            "radius": 0.5,
+            "color": "yellow",
+            "weight": 1.0,
+            "variance": 0.0
+        },
+        {
+            "name": "HydrogenDonor",
+            "cluster": 5.0,
+            "x": -15.3075,
+            "y": 3.664,
+            "z": -11.1426,
+            "radius": 0.5,
+            "color": "yellow",
+            "weight": 1.0,
+            "variance": 0.0
+        },
+        {
+            "name": "Hydrophobic",
+            "cluster": 1.0,
+            "x": -10.4231583333,
+            "y": 0.8441666667,
+            "z": -13.1044333333,
+            "radius": 2.0573744188,
+            "color": "green",
+            "weight": 2.0,
+            "variance": 1.1180406615
+        },
+        {
+            "name": "Hydrophobic",
+            "cluster": 2.0,
+            "x": -13.22585,
+            "y": 4.8701,
+            "z": -14.32515,
+            "radius": 1.0,
+            "color": "green",
+            "weight": 1.0,
+            "variance": 0.0
+        },
+        {
+            "name": "Hydrophobic",
+            "cluster": 3.0,
+            "x": -17.085,
+            "y": 2.9882666667,
+            "z": -10.5844,
+            "radius": 1.0,
+            "color": "green",
+            "weight": 1.0,
+            "variance": 0.0
+        },
+        {
+            "name": "Hydrophobic",
+            "cluster": 4.0,
+            "x": -5.5806933333,
+            "y": -0.068198,
+            "z": -13.040168,
+            "radius": 2.3149464726,
+            "color": "green",
+            "weight": 5.0,
+            "variance": 1.1016683551
+        },
+        {
+            "name": "Hydrophobic",
+            "cluster": 5.0,
+            "x": -4.8484333333,
+            "y": 2.9868333333,
+            "z": -10.5685333333,
+            "radius": 1.0,
+            "color": "green",
+            "weight": 1.0,
+            "variance": 0.0
+        },
+        {
+            "name": "Hydrophobic",
+            "cluster": 6.0,
+            "x": -1.37955,
+            "y": 4.34525,
+            "z": -7.4187333333,
+            "radius": 1.1889820347,
+            "color": "green",
+            "weight": 2.0,
+            "variance": 0.0357142094
+        },
+        {
+            "name": "Hydrophobic",
+            "cluster": 7.0,
+            "x": 0.8857,
+            "y": 1.1291,
+            "z": -11.385,
+            "radius": 1.0,
+            "color": "green",
+            "weight": 1.0,
+            "variance": 0.0
+        },
+        {
+            "name": "Hydrophobic",
+            "cluster": 8.0,
+            "x": -0.649,
+            "y": 1.1071,
+            "z": -13.9626,
+            "radius": 1.0,
+            "color": "green",
+            "weight": 1.0,
+            "variance": 0.0
+        }
+    ]
+}
