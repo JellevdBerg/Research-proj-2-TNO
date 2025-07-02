@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 data = []
-version = "PLIP" # PLIP or Scaffold
+version = "Enamine" # PLIP or Scaffold, Enamine
 folder = f'./Results/pharmacophores/{version}_based/{version}_results'
 
 for file in os.listdir(folder):

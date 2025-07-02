@@ -1,0 +1,377 @@
+Molecular Dynamics
+Job launching command:
+$SCHRODINGER/utilities/multisim -JOBNAME ACVR2B-Z26-SIM-1 -HOST localhost -maxjob 12 -cpu 12 -m ACVR2B-Z26-SIM-1.msj -c ACVR2B-Z26-SIM-1.cfg -description "Molecular Dynamics" ACVR2B-Z26-SIM-1.cms -mode umbrella -o ACVR2B-Z26-SIM-1-out.cms -lic DESMOND_GPGPU:16
+
+Multisim runs in the umbrella mode.
+Booting the multisim workflow engine...
+           multisim version: 4.0.0
+            mmshare version: 6.8
+                    Jobname: ACVR2B-Z26-SIM-1
+                   Username: jelleb23
+              Main job host: tiberius.lacdr.leidenuniv.nl
+                Subjob host: tiberius.lacdr.leidenuniv.nl
+                     Job ID: tiberius-0-685fd303
+            multisim script: ACVR2B-Z26-SIM-1.msj
+       Structure input file: ACVR2B-Z26-SIM-1.cms
+            CPUs per subjob: "1"
+             Job start time: Sat Jun 28 13:33:30 2025
+           Launch directory: /home/jelleb23/RP2_Schrodinger/simulations/ACVR2B-Z26-SIM-1
+               $SCHRODINGER: /zfsdata/software/schrodinger/2024-4
+               $OPLS_DIR: <empty>
+
+Parsing the multisim script file...
+
+Summary of user stages:
+  stage 1 - task
+  stage 2 - simulate, Brownian Dynamics NVT, T = 10 K, small timesteps, and restraints on solute heavy atoms, 100ps
+  stage 3 - simulate, NVT, T = 10 K, small timesteps, and restraints on solute heavy atoms, 12ps
+  stage 4 - simulate, NPT, T = 10 K, and restraints on solute heavy atoms, 12ps
+  stage 5 - simulate, NPT and restraints on solute heavy atoms, 12ps
+  stage 6 - simulate, NPT and no restraints, 24ps
+  stage 7 - simulate
+  stage 8 - pl_analysis
+(8 stages in total)
+
+Workflow is started now.
+
+Stage 1 - task
+stage[1] task: Detecting system type...
+stage[1] task:   It seems a mature model system created for regular molecular dynamics simulations
+stage[1] task: Recognizing traits of system...
+stage[1] task:   (none)
+
+Stage 1 completed successfully.
+
+Stage 1 duration: 0h 0' 3"
+
+
+Stage 2 - simulate
+
+Running subjobs on hosts:
+  tiberius.lacdr.leidenuniv.nl (Max: 12)
+Number of jobs:       1
+Max retries per job:  3
+Max allowed failures: unlimited
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 0 | launched  tiberius-0-685fd31d ACVR2B-Z26-SIM-1_2 tiberius.lacdr.leidenuniv.nl [tiberius]
+1 0 0 | finished  tiberius-0-685fd31d ACVR2B-Z26-SIM-1_2 tiberius.lacdr.leidenuniv.nl [tiberius]
+
+All jobs have completed.
+
+1 of 1 job(s) succeeded; 0 job(s) failed.
+
+
+Job("tiberius-0-685fd31d") was successfully finished.
+  Host       : localhost
+  Launch time: Sat Jun 28 13:33:49 2025
+  Start time : Sat Jun 28 13:33:49 2025
+  End time   : Sat Jun 28 13:37:17 2025
+  Duration   : 0h 3' 28"
+  CPUs       : 1
+  CPU time   : 0h 3' 28"
+  Exit code  : 0
+  Jobname    : ACVR2B-Z26-SIM-1_2
+  Stage      : 2 (simulate)
+
+Stage 2 completed successfully.
+
+Stage 2 duration: 0h 3' 45"
+
+
+Stage 3 - simulate
+
+Running subjobs on hosts:
+  tiberius.lacdr.leidenuniv.nl (Max: 12)
+Number of jobs:       1
+Max retries per job:  3
+Max allowed failures: unlimited
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 0 | launched  tiberius-0-685fd3fe ACVR2B-Z26-SIM-1_3 tiberius.lacdr.leidenuniv.nl [tiberius]
+1 0 0 | finished  tiberius-0-685fd3fe ACVR2B-Z26-SIM-1_3 tiberius.lacdr.leidenuniv.nl [tiberius]
+
+All jobs have completed.
+
+1 of 1 job(s) succeeded; 0 job(s) failed.
+
+
+Job("tiberius-0-685fd3fe") was successfully finished.
+  Host       : localhost
+  Launch time: Sat Jun 28 13:37:34 2025
+  Start time : Sat Jun 28 13:37:34 2025
+  End time   : Sat Jun 28 13:38:29 2025
+  Duration   : 0h 0' 55"
+  CPUs       : 1
+  CPU time   : 0h 0' 55"
+  Exit code  : 0
+  Jobname    : ACVR2B-Z26-SIM-1_3
+  Stage      : 3 (simulate)
+
+Stage 3 completed successfully.
+
+Stage 3 duration: 0h 1' 12"
+
+
+Stage 4 - simulate
+
+Running subjobs on hosts:
+  tiberius.lacdr.leidenuniv.nl (Max: 12)
+Number of jobs:       1
+Max retries per job:  3
+Max allowed failures: unlimited
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 0 | launched  tiberius-0-685fd447 ACVR2B-Z26-SIM-1_4 tiberius.lacdr.leidenuniv.nl [tiberius]
+1 0 0 | finished  tiberius-0-685fd447 ACVR2B-Z26-SIM-1_4 tiberius.lacdr.leidenuniv.nl [tiberius]
+
+All jobs have completed.
+
+1 of 1 job(s) succeeded; 0 job(s) failed.
+
+
+Job("tiberius-0-685fd447") was successfully finished.
+  Host       : localhost
+  Launch time: Sat Jun 28 13:38:47 2025
+  Start time : Sat Jun 28 13:38:47 2025
+  End time   : Sat Jun 28 13:39:38 2025
+  Duration   : 0h 0' 51"
+  CPUs       : 1
+  CPU time   : 0h 0' 51"
+  Exit code  : 0
+  Jobname    : ACVR2B-Z26-SIM-1_4
+  Stage      : 4 (simulate)
+
+Stage 4 completed successfully.
+
+Stage 4 duration: 0h 1' 8"
+
+
+Stage 5 - simulate
+
+Running subjobs on hosts:
+  tiberius.lacdr.leidenuniv.nl (Max: 12)
+Number of jobs:       1
+Max retries per job:  3
+Max allowed failures: unlimited
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 0 | launched  tiberius-0-685fd48b ACVR2B-Z26-SIM-1_5 tiberius.lacdr.leidenuniv.nl [tiberius]
+1 0 0 | finished  tiberius-0-685fd48b ACVR2B-Z26-SIM-1_5 tiberius.lacdr.leidenuniv.nl [tiberius]
+
+All jobs have completed.
+
+1 of 1 job(s) succeeded; 0 job(s) failed.
+
+
+Job("tiberius-0-685fd48b") was successfully finished.
+  Host       : localhost
+  Launch time: Sat Jun 28 13:39:55 2025
+  Start time : Sat Jun 28 13:39:55 2025
+  End time   : Sat Jun 28 13:40:46 2025
+  Duration   : 0h 0' 51"
+  CPUs       : 1
+  CPU time   : 0h 0' 51"
+  Exit code  : 0
+  Jobname    : ACVR2B-Z26-SIM-1_5
+  Stage      : 5 (simulate)
+
+Stage 5 completed successfully.
+
+Stage 5 duration: 0h 1' 9"
+
+
+Stage 6 - simulate
+
+Running subjobs on hosts:
+  tiberius.lacdr.leidenuniv.nl (Max: 12)
+Number of jobs:       1
+Max retries per job:  3
+Max allowed failures: unlimited
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 0 | launched  tiberius-0-685fd4d0 ACVR2B-Z26-SIM-1_6 tiberius.lacdr.leidenuniv.nl [tiberius]
+1 0 0 | finished  tiberius-0-685fd4d0 ACVR2B-Z26-SIM-1_6 tiberius.lacdr.leidenuniv.nl [tiberius]
+
+All jobs have completed.
+
+1 of 1 job(s) succeeded; 0 job(s) failed.
+
+
+Job("tiberius-0-685fd4d0") was successfully finished.
+  Host       : localhost
+  Launch time: Sat Jun 28 13:41:04 2025
+  Start time : Sat Jun 28 13:41:04 2025
+  End time   : Sat Jun 28 13:42:10 2025
+  Duration   : 0h 1' 6"
+  CPUs       : 1
+  CPU time   : 0h 1' 6"
+  Exit code  : 0
+  Jobname    : ACVR2B-Z26-SIM-1_6
+  Stage      : 6 (simulate)
+
+Stage 6 completed successfully.
+
+Stage 6 duration: 0h 1' 23"
+
+
+Stage 7 - simulate
+
+Running subjobs on hosts:
+  tiberius.lacdr.leidenuniv.nl (Max: 12)
+Number of jobs:       1
+Max retries per job:  3
+Max allowed failures: unlimited
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 0 | launched  tiberius-0-685fd523 ACVR2B-Z26-SIM-1 tiberius.lacdr.leidenuniv.nl [tiberius]
+1 0 0 | finished  tiberius-0-685fd523 ACVR2B-Z26-SIM-1 tiberius.lacdr.leidenuniv.nl [tiberius]
+
+All jobs have completed.
+
+1 of 1 job(s) succeeded; 0 job(s) failed.
+
+
+Job("tiberius-0-685fd523") was successfully finished.
+  Host       : localhost
+  Launch time: Sat Jun 28 13:42:27 2025
+  Start time : Sat Jun 28 13:42:27 2025
+  End time   : Mon Jun 30 12:18:57 2025
+  Duration   : 46h 36' 30"
+  CPUs       : 1
+  CPU time   : 46h 36' 30"
+  Exit code  : 0
+  Jobname    : ACVR2B-Z26-SIM-1
+  Stage      : 7 (simulate)
+
+Stage 7 completed successfully.
+
+Stage 7 duration: 46h 36' 48"
+
+
+Stage 8 - pl_analysis
+ /------Simulation Interactions Diagram-----
+ | Input File:  ACVR2B-Z26-SIM-1_8.st2
+ | Output File: ACVR2B-Z26-SIM-1_8.eaf
+ | Ligand ASL:  'at.n 2671-2699,5357-5383'
+ | Protein ASL:  '(protein)'
+ |
+ | To view results, run:
+ |  $SCHRODINGER/run event_analysis.py ACVR2B-Z26-SIM-1_8/ACVR2B-Z26-SIM-1_8.eaf
+ \------------------------------------------
+
+Running subjobs on hosts:
+  tiberius.lacdr.leidenuniv.nl (Max: 12)
+Number of jobs:       1
+Max retries per job:  3
+Max allowed failures: unlimited
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 0 | launched  tiberius-0-6862649a ACVR2B-Z26-SIM-1_8 tiberius.lacdr.leidenuniv.nl [tiberius]
+1 0 0 | finished  tiberius-0-6862649a ACVR2B-Z26-SIM-1_8 tiberius.lacdr.leidenuniv.nl [tiberius]
+
+All jobs have completed.
+
+1 of 1 job(s) succeeded; 0 job(s) failed.
+
+
+Job("tiberius-0-6862649a") was successfully finished.
+  Host       : localhost
+  Launch time: Mon Jun 30 12:19:06 2025
+  Start time : Mon Jun 30 12:19:08 2025
+  End time   : Mon Jun 30 12:50:58 2025
+  Duration   : 0h 31' 50"
+  CPUs       : 1
+  CPU time   : 0h 31' 50"
+  Exit code  : 0
+  Jobname    : ACVR2B-Z26-SIM-1_8
+  Stage      : 8 (pl_analysis)
+
+Stage 8 completed successfully.
+
+Stage 8 duration: 0h 31' 58"
+
+Cleaning up files...
+
+Multisim summary (Mon Jun 30 12:50:58 2025):
+  Stage 1 completed.
+  Stage 2 completed.
+  Stage 3 completed.
+  Stage 4 completed.
+  Stage 5 completed.
+  Stage 6 completed.
+  Stage 7 completed.
+  Stage 8 completed.
+  Total duration: 47h 17' 27"
+  Total GPU time: 46h 43' 41" (used by 6 subjob(s))
+Multisim completed.

@@ -1,0 +1,69 @@
+{
+    "points": [
+        {
+            "Unnamed: 0": 1,
+            "name": "Aromatic",
+            "cluster": 1,
+            "x": -1.2008972222210523,
+            "y": 0.9720037037035086,
+            "z": -12.14700833333158,
+            "radius": 1.6594926342121803,
+            "color": "purple",
+            "weight": 19.0,
+            "variance": 0.2312173958495775,
+            "frequency": 0.59375
+        },
+        {
+            "Unnamed: 0": 3,
+            "name": "Aromatic",
+            "cluster": 3,
+            "x": -9.372832456138337,
+            "y": 1.51635,
+            "z": -12.40111228070167,
+            "radius": 1.57619821559301,
+            "color": "purple",
+            "weight": 20.0,
+            "variance": 0.3995639654254385,
+            "frequency": 0.625
+        },
+        {
+            "Unnamed: 0": 14,
+            "name": "HydrogenAcceptor",
+            "cluster": 10,
+            "x": 1.3554999999999997,
+            "y": 1.5637,
+            "z": -11.668276190477274,
+            "radius": 2.349405192821166,
+            "color": "orange",
+            "weight": 22.0,
+            "variance": 0.7368015935497835,
+            "frequency": 0.6875
+        },
+        {
+            "Unnamed: 0": 25,
+            "name": "HydrogenAcceptor",
+            "cluster": 21,
+            "x": -5.328574074075,
+            "y": -1.6170000000000002,
+            "z": -14.000425925925,
+            "radius": 1.5185014246855857,
+            "color": "orange",
+            "weight": 28.0,
+            "variance": 0.2264173958465608,
+            "frequency": 0.875
+        },
+        {
+            "Unnamed: 0": 33,
+            "name": "HydrogenDonor",
+            "cluster": 7,
+            "x": -7.51798,
+            "y": -0.58546,
+            "z": -13.890679999999998,
+            "radius": 1.072566269002984,
+            "color": "yellow",
+            "weight": 6.0,
+            "variance": 0.1429371546666667,
+            "frequency": 0.1875
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+"${SCHRODINGER}/utilities/multisim" -JOBNAME ACVR2B-Z26-SIM-1 -HOST '<dummy-gpu-host>' -maxjob 1 -cpu 1 -m ACVR2B-Z26-SIM-1.msj -c ACVR2B-Z26-SIM-1.cfg -description 'Molecular Dynamics' ACVR2B-Z26-SIM-1.cms -mode umbrella -o ACVR2B-Z26-SIM-1-out.cms -lic DESMOND_GPGPU:16
